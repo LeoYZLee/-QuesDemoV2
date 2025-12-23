@@ -1,1 +1,3 @@
+com\yourcompany\api\ProfileApiServlet.class
 com\yourcompany\api\QuestionnaireApiServlet.class
+com\yourcompany\api\SpaFallbackFilter.class
